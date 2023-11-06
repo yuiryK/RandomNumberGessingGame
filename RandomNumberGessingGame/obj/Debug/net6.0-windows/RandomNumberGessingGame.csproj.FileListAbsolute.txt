@@ -1,0 +1,16 @@
+C:\Users\arcst\source\repos\RandomNumberGessingGame\RandomNumberGessingGame\bin\Debug\net6.0-windows\RandomNumberGessingGame.exe
+C:\Users\arcst\source\repos\RandomNumberGessingGame\RandomNumberGessingGame\bin\Debug\net6.0-windows\RandomNumberGessingGame.deps.json
+C:\Users\arcst\source\repos\RandomNumberGessingGame\RandomNumberGessingGame\bin\Debug\net6.0-windows\RandomNumberGessingGame.runtimeconfig.json
+C:\Users\arcst\source\repos\RandomNumberGessingGame\RandomNumberGessingGame\bin\Debug\net6.0-windows\RandomNumberGessingGame.dll
+C:\Users\arcst\source\repos\RandomNumberGessingGame\RandomNumberGessingGame\bin\Debug\net6.0-windows\RandomNumberGessingGame.pdb
+C:\Users\arcst\source\repos\RandomNumberGessingGame\RandomNumberGessingGame\obj\Debug\net6.0-windows\RandomNumberGessingGame.Form1.resources
+C:\Users\arcst\source\repos\RandomNumberGessingGame\RandomNumberGessingGame\obj\Debug\net6.0-windows\RandomNumberGessingGame.csproj.GenerateResource.cache
+C:\Users\arcst\source\repos\RandomNumberGessingGame\RandomNumberGessingGame\obj\Debug\net6.0-windows\RandomNumberGessingGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arcst\source\repos\RandomNumberGessingGame\RandomNumberGessingGame\obj\Debug\net6.0-windows\RandomNumberGessingGame.AssemblyInfoInputs.cache
+C:\Users\arcst\source\repos\RandomNumberGessingGame\RandomNumberGessingGame\obj\Debug\net6.0-windows\RandomNumberGessingGame.AssemblyInfo.cs
+C:\Users\arcst\source\repos\RandomNumberGessingGame\RandomNumberGessingGame\obj\Debug\net6.0-windows\RandomNumberGessingGame.csproj.CoreCompileInputs.cache
+C:\Users\arcst\source\repos\RandomNumberGessingGame\RandomNumberGessingGame\obj\Debug\net6.0-windows\RandomNumberGessingGame.dll
+C:\Users\arcst\source\repos\RandomNumberGessingGame\RandomNumberGessingGame\obj\Debug\net6.0-windows\refint\RandomNumberGessingGame.dll
+C:\Users\arcst\source\repos\RandomNumberGessingGame\RandomNumberGessingGame\obj\Debug\net6.0-windows\RandomNumberGessingGame.pdb
+C:\Users\arcst\source\repos\RandomNumberGessingGame\RandomNumberGessingGame\obj\Debug\net6.0-windows\RandomNumberGessingGame.genruntimeconfig.cache
+C:\Users\arcst\source\repos\RandomNumberGessingGame\RandomNumberGessingGame\obj\Debug\net6.0-windows\ref\RandomNumberGessingGame.dll
